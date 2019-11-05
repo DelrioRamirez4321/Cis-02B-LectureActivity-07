@@ -1,0 +1,11 @@
+body {
+    font-size: 20px;
+}
+#nav-bar, main, aside {
+    float: left;
+    width: 33%;
+}
+#BFG {
+    max-width: 100%;
+}
+
